@@ -2,6 +2,8 @@
 
 This is a simple project to demonstrate how to write unit tests in TypeScript using [Bun](https://bun.sh).
 
+![Running tests](./running-tests.gif)
+
 To install dependencies:
 
 ```bash
